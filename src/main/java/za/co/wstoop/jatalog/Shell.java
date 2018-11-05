@@ -15,6 +15,8 @@ import za.co.wstoop.jatalog.output.DefaultQueryOutput;
 import za.co.wstoop.jatalog.output.QueryOutput;
 import za.co.wstoop.jatalog.output.OutputUtils;
 
+//KENLO FIRST COMMENT AND PUSH
+
 /**
  * Shell for Jatalog.
  * This class contains a {@link #main(String...)} method that
